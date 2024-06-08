@@ -17,9 +17,14 @@ let Array1 =  [100,200,300];
 console.log(Array);
 
 //vy
-let Array2 = [12.52, 200, 54.25, 500];
-let result1 = Math.max(...Array2);
-console.log(Array2);
-var myName = "hello js";
+let First = [12.52,200,54.25,500];
+let second = Math.max(...First);
+console.log(second);
+var myName = "hello js";    
+
+const AB = [0,0.001,25,30,65,180];
+const maximum = Math.max(...AB);
+const minimum = Math.min(...AB)
+console.log(minimum);
 
 
