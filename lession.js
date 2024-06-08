@@ -13,4 +13,6 @@ let result = Math.max(...Array);
 console.log(result);
 // spread operator in js (...)
 // students  chenda
+// let java
+let java = "Do you love me?";
 
