@@ -29,11 +29,16 @@
 //const minimum = Math.min(...AB)
 //console.log(minimum);
 
-let totalScore = Math.random()*100+1;
-if (totalScore>=50){
-    console.log("Pasted Exam");
-} else if (totalScore<50){
-    console.log("Failed Exam");
-}
+//let totalScore = Math.random()*100+1;
+//if (totalScore>=50){
+//    console.log("Pasted Exam");
+//} else if (totalScore<50){
+//    console.log("Failed Exam");
+//}
+
+let ages = 50;
+(ages>=18)?
+console.log("Allowed"):
+console.log("Fail");
 
 
