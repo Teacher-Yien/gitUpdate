@@ -18,7 +18,7 @@
 //let Array1 =  [100,200,300];
 //console.log(Array);
 
-//vy
+//VY
 //let First = [12.52,200,54.25,500];
 //let second = Math.max(...First);
 //console.log(second);
@@ -41,11 +41,12 @@
 //console.log("Allowed"):
 //console.log("Fail");
 
-let people = 2500;
-let people1 = 3000;
-if (people<=2000){
-    console.log("Can not buy!!");
-} else if (people1>=2500){
-    console.log("Can buy!!!");
-}
+//let people = 2500;
+//let people1 = 3000;
+//if (people<=2000){
+//    console.log("Can not buy!!");
+//} else if (people1>=2500){
+//    console.log("Can buy!!!");
+//}
 
+console.log("Hello Javascript love 🥰");
