@@ -36,9 +36,16 @@
 //    console.log("Failed Exam");
 //}
 
-let ages = 50;
-(ages>=18)?
-console.log("Allowed"):
-console.log("Fail");
+//let ages = 50;
+//(ages>=18)?
+//console.log("Allowed"):
+//console.log("Fail");
 
+let people = 2500;
+let people1 = 3000;
+if (people<=2000){
+    console.log("Can not buy!!");
+} else if (people1>=2500){
+    console.log("Can buy!!!");
+}
 
